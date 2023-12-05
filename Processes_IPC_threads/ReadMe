@@ -1,0 +1,2 @@
+In this project  an application that finds the K most frequently occurring words, i.e., top-K words, in a given input data set (K is an positive integer) is developed. 
+In part A, the application uses multiple child processes to process the data set. In part B, it uses multiple threads.
