@@ -1,2 +1,2 @@
 # Operating_Systems
-This Folder includes operating system related project in C Language
+This Folder includes operating system related projects-simulations in C Language
